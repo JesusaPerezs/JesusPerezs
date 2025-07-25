@@ -49,9 +49,21 @@ I'm Jesús! I'm a **Data Science enthusiast**:iphone:, looking to solve **real-w
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-antonio-p%C3%A9rez-silva/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
   </a>
-
+  
+  <a href="https://x.com/juanantd?t=Qo9zfBX-m9ugko4YFVxqwQ&s=09">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
+  </a>
 </p>
 
+### 😺 My Github stats:
+
+<a href="https://github-readme-stats.vercel.app/api?username=JesusaPerezs&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusaPerezs&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Jesús's GitHub stats"/>
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusaPerezs&layout=compact&text_color=daf7dc&bg_color=151515">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusaPerezs&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages"/>
+</a>
